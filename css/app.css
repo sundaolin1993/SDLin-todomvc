@@ -1,0 +1,14 @@
+/*
+
+app-template.css overrides
+
+remove this comment if used
+remove this file if not
+
+*/
+:focus,
+.toggle:focus+label,
+.toggle-all:focus+label {
+    box-shadow: none;
+    outline: 0;
+}
